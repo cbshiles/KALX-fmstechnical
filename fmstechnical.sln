@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fmstechnical", "fmstechnical.vcxproj", "{AC8BFF8F-A406-4A49-9606-E65B2443FAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8BFF8F-A406-4A49-9606-E65B2443FAFC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC8BFF8F-A406-4A49-9606-E65B2443FAFC}.Debug|Win32.Build.0 = Debug|Win32
+		{AC8BFF8F-A406-4A49-9606-E65B2443FAFC}.Release|Win32.ActiveCfg = Release|Win32
+		{AC8BFF8F-A406-4A49-9606-E65B2443FAFC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
